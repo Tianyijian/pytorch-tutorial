@@ -28,7 +28,15 @@
   (-1.39) Polish
   (-3.51) Czech
   ```
+  
 - 运行`server.py`并访问http://localhost:5533/Yourname 得到JSON格式的预测输出
+
+## 学习总结
+
+- python内置库 glob、os.path的简单使用
+- matplotlib对混淆矩阵的可视化
+- bottle 构建JSON API的本地服务
+- RNN的pytorch简单实现
 
 ## 参考
 
