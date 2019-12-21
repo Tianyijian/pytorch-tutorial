@@ -35,8 +35,8 @@
 
 ## 学习总结
 
-- 用RNN进行生成的pytorch简单实现
-- Pytorch使用GPU进行训练
+- Encoder-Attention-Decoder模型的Pytorch实现
+- Cornell Movie-Dialogs Corpus 数据集的格式化处理
 
 ## 参考
 
