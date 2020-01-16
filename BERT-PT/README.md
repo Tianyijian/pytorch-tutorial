@@ -1,6 +1,8 @@
-# BERT继续预训练
+# BERT继续预训练-简单版
 
 在BERT模型的基础上继续预训练，pytorch版，使用 [huggingface/transformers](https://github.com/huggingface/transformers)。
+
+**注意：**此代码为简单版，准备数据时未严格按照BERT的NSP（Next Sentence Prediction）任务。
 
 ## 依赖
 
