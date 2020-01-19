@@ -7,3 +7,4 @@
 - BERT继续预训练-简单版：BERT-PT
 - BERT继续预训练-标准版：lm
 
+- 使用AIChallenger2018数据集尝试ABSA任务：AIChallenger2018
